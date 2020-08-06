@@ -13,4 +13,4 @@ The googel autoML shows greate advantage than the open sources spacy in terms of
     $ conda install -c conda-forge spacy
     $ python -m spacy download en_core_web_sm
     
-    
+![Alt text](Google_auto_ML.png?raw=true "Optional Title")    
