@@ -14,3 +14,6 @@ The googel autoML shows great advantage than the open sources spacy in terms of 
     $ python -m spacy download en_core_web_sm
     
 ![Alt text](Google_auto_ML.png?raw=true "Optional Title")    
+
+
+ref:https://realpython.com/python-keras-text-classification/
